@@ -6,3 +6,4 @@ Following is the list of EDA it contains as of now
 2. Kaggle health dataset EDA - https://www.kaggle.com/datasets/themrityunjaypathak/pandas-practice-dataset/data
 3. Kaggle Titanic dataset EDA - https://www.kaggle.com/datasets/yasserh/titanic-dataset/data
 4. Kaggle Employee dataset(All in one) EDA - https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset/data?
+5. Kaggle FIFA dataset(FIFA 15 - FIFA 21) EDA - https://www.kaggle.com/datasets/stefanoleone992/fifa-21-complete-player-dataset
